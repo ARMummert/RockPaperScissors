@@ -1,4 +1,12 @@
 {
+  "name": "rock-paper-scissors",
+  "version": "1.0.0",
+  "description": "Rock Paper Scissors game",
+  "main": "app.tsx",
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  
   "dependencies": {
     "create-react-app": "^5.0.1",
     "react": "^18.2.0",
