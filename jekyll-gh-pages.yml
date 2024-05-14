@@ -72,3 +72,9 @@ jobs:
           path: ${{ steps.build.outputs.artifact }}
         if: always()
 
+scripts: 
+  - npm install
+  - npm run build
+  - npm run test
+  - npm run deploy
+  - npm run cleanup
