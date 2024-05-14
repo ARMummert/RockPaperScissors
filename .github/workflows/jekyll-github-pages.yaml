@@ -71,3 +71,10 @@ jobs:
           path: ${{ steps.build.outputs.artifact }}
         if: always()
 
+  start:
+    runs-on: ubuntu-latest
+    needs: cleanup
+    steps:
+      - name: Start
+        run: echo "Deployment started"
+
