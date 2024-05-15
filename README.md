@@ -3,6 +3,9 @@ Rock, Paper, Scissors is a two player game where each player creates either a ro
 
 ![rps-demo](https://github.com/ARMummert/RockPaperScissors/assets/135379751/3ced8c33-75be-43ec-83b1-7248116eccf6)
 
+# Github 
+https://github.com/ARMummert/RockPaperScissors/tree/main
+
 # Installation Guide
 `npm install react`,
 `npm install node`,
