@@ -9,3 +9,4 @@ Rock, Paper, Scissors is a two player game where each player creates either a ro
 https://dev.to/elhamnajeebullah/react-typescript-what-is-reactfc-and-why-should-i-use-it-4029
 www.react.dev
 
+![rps-demo](https://github.com/ARMummert/RockPaperScissors/assets/135379751/3ced8c33-75be-43ec-83b1-7248116eccf6)
