@@ -12,6 +12,10 @@ https://github.com/ARMummert/RockPaperScissors/tree/main
 `npm install create-react-app --template typescript`,
 `npm start`
 
+
+https://github.com/ARMummert/RockPaperScissors/assets/135379751/86950d35-c831-4da0-99db-4b42b2d972c3
+
+
 # Citations
 https://dev.to/elhamnajeebullah/react-typescript-what-is-reactfc-and-why-should-i-use-it-4029
 www.react.dev
